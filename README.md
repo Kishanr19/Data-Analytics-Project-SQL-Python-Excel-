@@ -1,5 +1,4 @@
-# From Database to Dashboard: A Multi-Tool Analytics Portfolio
-**by Rebekah Fowler**
+Data-Analytics-Project-SQL-Python-Excel
 
 A collection of analyst-style projects spanning PostgreSQL, Python, Excel, and Tableau. Each project is built around a specific business question — from bike store sales and inventory, to employee attrition, to options market data — and demonstrates a different stage of the analytics workflow, from database design through modeling to dashboarding.
 
